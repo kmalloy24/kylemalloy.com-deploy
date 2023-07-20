@@ -4,19 +4,8 @@
   
     
       <url>
-            <loc>https://kylemalloy.com/about/</loc>
-            <changefreq>always</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-  
-    
-  
-    
-      <url>
-            <loc>https://kylemalloy.com/contact/</loc>
+            <loc>https://kylemalloy.com/internal-apps/</loc>
+            <lastmod>2023-07-20T00:00:00+00:00</lastmod>
             <changefreq>always</changefreq>
             <priority>0.5</priority>
           </url>
@@ -24,7 +13,17 @@
   
     
       <url>
-            <loc>https://kylemalloy.com/</loc>
+            <loc>https://kylemalloy.com/hsh/</loc>
+            <lastmod>2023-07-20T00:00:00+00:00</lastmod>
+            <changefreq>always</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://kylemalloy.com/saas/</loc>
+            <lastmod>2023-07-20T00:00:00+00:00</lastmod>
             <changefreq>always</changefreq>
             <priority>0.5</priority>
           </url>
@@ -33,6 +32,29 @@
     
       <url>
             <loc>https://kylemalloy.com/resume/</loc>
+            <lastmod>2023-07-02T00:00:00+00:00</lastmod>
+            <changefreq>always</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+  
+    
+      <url>
+            <loc>https://kylemalloy.com/blog/</loc>
+            <lastmod>2023-04-25T00:00:00+00:00</lastmod>
+            <changefreq>always</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+  
+    
+      <url>
+            <loc>https://kylemalloy.com/</loc>
+            <lastmod>2023-04-25T00:00:00+00:00</lastmod>
             <changefreq>always</changefreq>
             <priority>0.5</priority>
           </url>
@@ -44,10 +66,17 @@
   
     
       <url>
-            <loc>https://kylemalloy.com/now/</loc>
+            <loc>https://kylemalloy.com/blog/lisp-gpt/</loc>
+            <lastmod>2023-04-25T00:00:00+00:00</lastmod>
             <changefreq>always</changefreq>
             <priority>0.5</priority>
           </url>
+    
+  
+    
+  
+    
+  
     
   
 </urlset>

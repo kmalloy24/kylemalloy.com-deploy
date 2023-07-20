@@ -6,48 +6,58 @@
     <description>Recent content in Kyle Malloy on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>© 2023 Kyle Malloy</copyright><atom:link href="https://kylemalloy.com/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2023 Kyle Malloy</copyright>
+    <lastBuildDate>Tue, 25 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://kylemalloy.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>About Me</title>
-      <link>https://kylemalloy.com/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Internal Benefits of HSH Apps ⚙️</title>
+      <link>https://kylemalloy.com/internal-apps/</link>
+      <pubDate>Thu, 20 Jul 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://kylemalloy.com/about/</guid>
-      <description>A year ago I left my 9-5 as a civil engineer in Boston. My wife and I decided it was time for a hard reset. So we took off in a converted church van to travel the US.</description>
-      
+      <guid>https://kylemalloy.com/internal-apps/</guid>
+      <description>A holistic approach to internal pain points # Build processes that are system dependent &amp;ndash; not people dependent Build systems that scale # HSH is a growing midsized local company hitting the ceiling in MA and needs to streamline processes on top of it&amp;rsquo;s solid foundation in order to continue to grow Solidify best practices, reduce error prone excel and word workflows, less time spent locating things, asking questions that have already been answered.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://kylemalloy.com/internal-apps/featured.png" />
     </item>
     
     <item>
-      <title>Contact</title>
-      <link>https://kylemalloy.com/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Introducing HSH Apps 🎉</title>
+      <link>https://kylemalloy.com/hsh/</link>
+      <pubDate>Thu, 20 Jul 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://kylemalloy.com/contact/</guid>
-      <description>Email # kyle@malloy.dev
-Phone # 781-353-1952</description>
+      <guid>https://kylemalloy.com/hsh/</guid>
+      <description>What is HSH Apps? # HSH Apps is a new team at Howard Stein Hudson that is focused on building web based applications for clients and internal processes.
+Why does Howard Stein Hudson need HSH Apps?</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://kylemalloy.com/hsh/featured.png" />
+    </item>
+    
+    <item>
+      <title>Why SaaS is the Best Business Model 📈</title>
+      <link>https://kylemalloy.com/saas/</link>
+      <pubDate>Thu, 20 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://kylemalloy.com/saas/</guid>
+      <description>Recurring Revenue # You get paid in advance before it rendering the service Billing is automated Builds on itself every month Annual payment options can guarantee minimum revenue and cash flow for start of year financial planning Recession-Resistant # Insulated against free fall thanks to it recurring nature Leverages against downturns in AEC Even if the industry is in a recession everyone still needs to pay for AutoCAD Higher Profit Margins &amp;amp; Valuations # Digital products are capital efficient and require very little to get up and running SaaS companies reach gross profit margins of 90% and net of 50% at scale SaaS companies are averaging valuations at 4-8x their annual recuring REVENUE (ARR) Ex.</description>
       
     </item>
     
     <item>
       <title>Resume</title>
       <link>https://kylemalloy.com/resume/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 02 Jul 2023 00:00:00 +0000</pubDate>
       
       <guid>https://kylemalloy.com/resume/</guid>
-      <description>Work Experience # &lt;?xml version=&#34;1.0&#34; encoding=&#34;UTF-8&#34; standalone=&#34;no&#34;?&gt; CivSoft Current CTO, Co-Founder Remote Founded with my wife, Chandler, we are developing software that provides value by improving workflows and giving civil engineers more time back in their day.</description>
+      <description>Work Experience # Current Howard Stein HudsonOct 2018 - Current · 4 yrs 8 mosRemote (2020-2022)Boston, MA (2018-2020) Civil Engineer, Part-Time (Apr 2022 - Current)Working remotely on a part-time basis.</description>
       
     </item>
     
     <item>
-      <title>What I&#39;m Doing Now</title>
-      <link>https://kylemalloy.com/now/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Writing AutoLISP With ChatGPT</title>
+      <link>https://kylemalloy.com/blog/lisp-gpt/</link>
+      <pubDate>Tue, 25 Apr 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://kylemalloy.com/now/</guid>
-      <description>Updated on May 16th, 2023 Civil Engineering # &lt;?xml version=&#34;1.0&#34; encoding=&#34;UTF-8&#34; standalone=&#34;no&#34;?&gt; Working part-time, remote.
-Programming # &lt;?xml version=&#34;1.0&#34; encoding=&#34;UTF-8&#34; standalone=&#34;no&#34;?&gt; Working on our MVP at CivSoft.
-Outside of Work # 🚐 Traveling across the eastern US for most of the summer.</description>
-      
+      <guid>https://kylemalloy.com/blog/lisp-gpt/</guid>
+      <description>Prompt # Write code for autocad lisp command for total length
+Code Output # (defun c:totallength (/ ss len) (setq ss (ssget)) (setq len 0.0) (if ss (progn (setq nents (sslength ss)) (repeat nents (setq ent (ssname ss (setq i (1- i)))) (setq len (+ len (vla-get-length (vlax-ename-&amp;gt;vla-object ent)))) ) (princ (strcat &amp;#34;\nTotal length: &amp;#34; (rtos len))) ) (princ &amp;#34;\nNo objects selected.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://kylemalloy.com/blog/lisp-gpt/featured.png" />
     </item>
     
   </channel>

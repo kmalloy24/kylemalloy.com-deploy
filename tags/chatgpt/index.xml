@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>chatgpt on </title>
+    <link>https://kylemalloy.com/tags/chatgpt/</link>
+    <description>Recent content in chatgpt on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2023 Kyle Malloy</copyright>
+    <lastBuildDate>Tue, 25 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://kylemalloy.com/tags/chatgpt/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Writing AutoLISP With ChatGPT</title>
+      <link>https://kylemalloy.com/blog/lisp-gpt/</link>
+      <pubDate>Tue, 25 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://kylemalloy.com/blog/lisp-gpt/</guid>
+      <description>Prompt # Write code for autocad lisp command for total length
+Code Output # (defun c:totallength (/ ss len) (setq ss (ssget)) (setq len 0.0) (if ss (progn (setq nents (sslength ss)) (repeat nents (setq ent (ssname ss (setq i (1- i)))) (setq len (+ len (vla-get-length (vlax-ename-&amp;gt;vla-object ent)))) ) (princ (strcat &amp;#34;\nTotal length: &amp;#34; (rtos len))) ) (princ &amp;#34;\nNo objects selected.</description>
+    </item>
+    
+  </channel>
+</rss>
