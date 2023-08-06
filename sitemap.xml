@@ -4,6 +4,45 @@
   
     
       <url>
+            <loc>https://kylemalloy.com/blog/</loc>
+            <lastmod>2023-08-06T00:00:00+00:00</lastmod>
+            <changefreq>always</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+  
+    
+  
+    
+      <url>
+            <loc>https://kylemalloy.com/blog/fkit/</loc>
+            <lastmod>2023-08-06T00:00:00+00:00</lastmod>
+            <changefreq>always</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://kylemalloy.com/</loc>
+            <lastmod>2023-08-06T00:00:00+00:00</lastmod>
+            <changefreq>always</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+      <url>
             <loc>https://kylemalloy.com/internal-apps/</loc>
             <lastmod>2023-07-20T00:00:00+00:00</lastmod>
             <changefreq>always</changefreq>
@@ -38,26 +77,6 @@
           </url>
     
   
-    
-  
-    
-      <url>
-            <loc>https://kylemalloy.com/blog/</loc>
-            <lastmod>2023-04-25T00:00:00+00:00</lastmod>
-            <changefreq>always</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-  
-    
-      <url>
-            <loc>https://kylemalloy.com/</loc>
-            <lastmod>2023-04-25T00:00:00+00:00</lastmod>
-            <changefreq>always</changefreq>
-            <priority>0.5</priority>
-          </url>
     
   
     
