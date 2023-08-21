@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>firebase on </title>
+    <title>firebase on Kyle Malloy, PE</title>
     <link>https://kylemalloy.com/tags/firebase/</link>
-    <description>Recent content in firebase on </description>
+    <description>Recent content in firebase on Kyle Malloy, PE</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2023 Kyle Malloy</copyright>
@@ -16,6 +16,20 @@
       <guid>https://kylemalloy.com/blog/fkit/</guid>
       <description>I recently completed the Sveltekit Full Course from Fireship.io where you build a Linktree clone using Sveltekit, Firebase, Tailwind, and Daisy UI.
 As someone new to web development in general, I ran into some problems along the way.</description>
+    </item>
+    
+    <item>
+      <title>Linktree Clone</title>
+      <link>https://kylemalloy.com/projects/linktree/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kylemalloy.com/projects/linktree/</guid>
+      <description>Live Demo | Source Code
+Features # 💪 Server-side rendering, SEO, data fetching, and caching
+🍪 Cookie-based user authentication
+💥 Complex forms with SvelteKit Actions
+🤏 Drag-and-drop interface
+🎨 Svelte animations with real-world data</description>
     </item>
     
   </channel>

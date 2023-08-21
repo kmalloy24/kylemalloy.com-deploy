@@ -1,13 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Kyle Malloy on </title>
+    <title>Kyle Malloy on Kyle Malloy, PE</title>
     <link>https://kylemalloy.com/</link>
-    <description>Recent content in Kyle Malloy on </description>
+    <description>Recent content in Kyle Malloy on Kyle Malloy, PE</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2023 Kyle Malloy</copyright>
-    <lastBuildDate>Sun, 06 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://kylemalloy.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 21 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://kylemalloy.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>👨‍💻 Developer Resume</title>
+      <link>https://kylemalloy.com/resume/resume-dev/</link>
+      <pubDate>Mon, 21 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://kylemalloy.com/resume/resume-dev/</guid>
+      <description>Projects # A few of my projects are featured below. A complete list is in progress here. Linktree Clone svelte firebase tailwind WebsitesLinkDesc.TechKyle MalloyPersonal WebsiteAtoms of UsBlogCourses # NameCredentialSvelteKit Full CourseAug 2023Course NotesTechnologies # I have experience working with the following web technologies.</description>
+      
+    </item>
+    
+    <item>
+      <title>👷‍♂️ Civil Engineering Resume</title>
+      <link>https://kylemalloy.com/resume/resume-civ/</link>
+      <pubDate>Mon, 21 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://kylemalloy.com/resume/resume-civ/</guid>
+      <description>Projects # A few of my projects are featured below. A complete list is in progress here. Tremont Street multimodal transportation Work Experience # Current Howard Stein HudsonOct 2018 - Current · 4 yrs 8 mosRemote (2020-2022)Boston, MA (2018-2020) Civil Engineer, Part-Time (Apr 2022 - Current)Working remotely on a part-time basis.</description>
+      
+    </item>
+    
     <item>
       <title>Fireship FKIT Course Notes</title>
       <link>https://kylemalloy.com/blog/fkit/</link>
@@ -20,47 +40,6 @@ As someone new to web development in general, I ran into some problems along the
     </item>
     
     <item>
-      <title>Internal Benefits of HSH Apps ⚙️</title>
-      <link>https://kylemalloy.com/internal-apps/</link>
-      <pubDate>Thu, 20 Jul 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://kylemalloy.com/internal-apps/</guid>
-      <description>A holistic approach to internal pain points # Build processes that are system dependent &amp;ndash; not people dependent Build systems that scale # HSH is a growing mid-sized local company hitting the ceiling in MA and needs to streamline processes on top of it&amp;rsquo;s solid foundation in order to continue to grow Solidify best practices, reduce error prone excel and word workflows, less time spent locating things, asking questions that have already been answered.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://kylemalloy.com/internal-apps/featured.png" />
-    </item>
-    
-    <item>
-      <title>Introducing HSH Apps 🎉</title>
-      <link>https://kylemalloy.com/hsh/</link>
-      <pubDate>Thu, 20 Jul 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://kylemalloy.com/hsh/</guid>
-      <description>What is HSH Apps? # HSH Apps is a new team at Howard Stein Hudson that is focused on building web based applications for clients and internal processes.
-What is the big picture?</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://kylemalloy.com/hsh/featured.png" />
-    </item>
-    
-    <item>
-      <title>Why SaaS is the Best Business Model 📈</title>
-      <link>https://kylemalloy.com/saas/</link>
-      <pubDate>Thu, 20 Jul 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://kylemalloy.com/saas/</guid>
-      <description>Recurring Revenue # You get paid in advance before it rendering the service Billing is automated Annual payment options can guarantee minimum revenue and cash flow for start of year financial planning Recession-Resistant # Insulated against free fall thanks to it recurring nature Even if the industry is in a recession everyone still needs to pay for AutoCAD Higher Profit Margins &amp;amp; Valuations # Digital products are capital efficient and require very little to get up and running SaaS companies reach gross profit margins of 90% and net of 50% at scale SaaS companies are averaging valuations at 4-8x their annual recuring REVENUE (not profit!</description>
-      
-    </item>
-    
-    <item>
-      <title>Resume</title>
-      <link>https://kylemalloy.com/resume/</link>
-      <pubDate>Sun, 02 Jul 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://kylemalloy.com/resume/</guid>
-      <description>Work Experience # Current Howard Stein HudsonOct 2018 - Current · 4 yrs 8 mosRemote (2020-2022)Boston, MA (2018-2020) Civil Engineer, Part-Time (Apr 2022 - Current)Working remotely on a part-time basis.</description>
-      
-    </item>
-    
-    <item>
       <title>Writing AutoLISP With ChatGPT</title>
       <link>https://kylemalloy.com/blog/lisp-gpt/</link>
       <pubDate>Tue, 25 Apr 2023 00:00:00 +0000</pubDate>
@@ -69,6 +48,32 @@ What is the big picture?</description>
       <description>Prompt # Write code for autocad lisp command for total length
 Code Output # (defun c:totallength (/ ss len) (setq ss (ssget)) (setq len 0.0) (if ss (progn (setq nents (sslength ss)) (repeat nents (setq ent (ssname ss (setq i (1- i)))) (setq len (+ len (vla-get-length (vlax-ename-&amp;gt;vla-object ent)))) ) (princ (strcat &amp;#34;\nTotal length: &amp;#34; (rtos len))) ) (princ &amp;#34;\nNo objects selected.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://kylemalloy.com/blog/lisp-gpt/featured.png" />
+    </item>
+    
+    <item>
+      <title>Linktree Clone</title>
+      <link>https://kylemalloy.com/projects/linktree/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kylemalloy.com/projects/linktree/</guid>
+      <description>Live Demo | Source Code
+Features # 💪 Server-side rendering, SEO, data fetching, and caching
+🍪 Cookie-based user authentication
+💥 Complex forms with SvelteKit Actions
+🤏 Drag-and-drop interface
+🎨 Svelte animations with real-world data</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://kylemalloy.com/projects/linktree/featured.png" />
+    </item>
+    
+    <item>
+      <title>Tremont Street</title>
+      <link>https://kylemalloy.com/projects/tremont/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kylemalloy.com/projects/tremont/</guid>
+      <description>Project Website | Storymap
+Role Lead Roadway Designer, Assistant Project Manager Company HSH Client City of Boston Years 2019-2022 Status &lt;?xml version=&#34;1.0&#34; encoding=&#34;UTF-8&#34; standalone=&#34;no&#34;?&gt; Construction Description # Took project from 25% design to final PS&amp;amp;E bid documents.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://kylemalloy.com/projects/tremont/featured.png" />
     </item>
     
   </channel>

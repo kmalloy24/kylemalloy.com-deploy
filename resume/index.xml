@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Experience on Kyle Malloy, PE</title>
+    <link>https://kylemalloy.com/resume/</link>
+    <description>Recent content in Experience on Kyle Malloy, PE</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2023 Kyle Malloy</copyright>
+    <lastBuildDate>Sun, 02 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://kylemalloy.com/resume/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>👨‍💻 Developer Resume</title>
+      <link>https://kylemalloy.com/resume/resume-dev/</link>
+      <pubDate>Mon, 21 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://kylemalloy.com/resume/resume-dev/</guid>
+      <description>Projects # A few of my projects are featured below. A complete list is in progress here. Linktree Clone svelte firebase tailwind WebsitesLinkDesc.TechKyle MalloyPersonal WebsiteAtoms of UsBlogCourses # NameCredentialSvelteKit Full CourseAug 2023Course NotesTechnologies # I have experience working with the following web technologies.</description>
+    </item>
+    
+    <item>
+      <title>👷‍♂️ Civil Engineering Resume</title>
+      <link>https://kylemalloy.com/resume/resume-civ/</link>
+      <pubDate>Mon, 21 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://kylemalloy.com/resume/resume-civ/</guid>
+      <description>Projects # A few of my projects are featured below. A complete list is in progress here. Tremont Street multimodal transportation Work Experience # Current Howard Stein HudsonOct 2018 - Current · 4 yrs 8 mosRemote (2020-2022)Boston, MA (2018-2020) Civil Engineer, Part-Time (Apr 2022 - Current)Working remotely on a part-time basis.</description>
+    </item>
+    
+  </channel>
+</rss>

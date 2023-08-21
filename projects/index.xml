@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Kyle Malloy, PE</title>
+    <link>https://kylemalloy.com/projects/</link>
+    <description>Recent content in Projects on Kyle Malloy, PE</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2023 Kyle Malloy</copyright><atom:link href="https://kylemalloy.com/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Linktree Clone</title>
+      <link>https://kylemalloy.com/projects/linktree/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kylemalloy.com/projects/linktree/</guid>
+      <description>Live Demo | Source Code
+Features # 💪 Server-side rendering, SEO, data fetching, and caching
+🍪 Cookie-based user authentication
+💥 Complex forms with SvelteKit Actions
+🤏 Drag-and-drop interface
+🎨 Svelte animations with real-world data</description>
+    </item>
+    
+    <item>
+      <title>Tremont Street</title>
+      <link>https://kylemalloy.com/projects/tremont/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kylemalloy.com/projects/tremont/</guid>
+      <description>Project Website | Storymap
+Role Lead Roadway Designer, Assistant Project Manager Company HSH Client City of Boston Years 2019-2022 Status &lt;?xml version=&#34;1.0&#34; encoding=&#34;UTF-8&#34; standalone=&#34;no&#34;?&gt; Construction Description # Took project from 25% design to final PS&amp;amp;E bid documents.</description>
+    </item>
+    
+  </channel>
+</rss>
