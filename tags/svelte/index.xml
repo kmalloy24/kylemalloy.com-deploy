@@ -16,6 +16,7 @@
       <guid>https://kylemalloy.com/blog/fkit/</guid>
       <description>I recently completed the Sveltekit Full Course from Fireship.io where you build a Linktree clone using Sveltekit, Firebase, Tailwind, and Daisy UI.
 As someone new to web development in general, I ran into some problems along the way.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://kylemalloy.com/blog/fkit/featured.webp" />
     </item>
     
     <item>
@@ -30,6 +31,7 @@ Features # 💪 Server-side rendering, SEO, data fetching, and caching
 💥 Complex forms with SvelteKit Actions
 🤏 Drag-and-drop interface
 🎨 Svelte animations with real-world data</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://kylemalloy.com/projects/linktree/featured.png" />
     </item>
     
   </channel>

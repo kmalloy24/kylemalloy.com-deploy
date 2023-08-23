@@ -6,7 +6,8 @@
     <description>Recent content in Projects on Kyle Malloy, PE</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>© 2023 Kyle Malloy</copyright><atom:link href="https://kylemalloy.com/projects/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2023 Kyle Malloy</copyright>
+    <atom:link href="https://kylemalloy.com/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Linktree Clone</title>
       <link>https://kylemalloy.com/projects/linktree/</link>
@@ -19,6 +20,7 @@ Features # 💪 Server-side rendering, SEO, data fetching, and caching
 💥 Complex forms with SvelteKit Actions
 🤏 Drag-and-drop interface
 🎨 Svelte animations with real-world data</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://kylemalloy.com/projects/linktree/featured.png" />
     </item>
     
     <item>
@@ -29,6 +31,7 @@ Features # 💪 Server-side rendering, SEO, data fetching, and caching
       <guid>https://kylemalloy.com/projects/tremont/</guid>
       <description>Project Website | Storymap
 Role Lead Roadway Designer, Assistant Project Manager Company HSH Client City of Boston Years 2019-2022 Status &lt;?xml version=&#34;1.0&#34; encoding=&#34;UTF-8&#34; standalone=&#34;no&#34;?&gt; Construction Description # Took project from 25% design to final PS&amp;amp;E bid documents.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://kylemalloy.com/projects/tremont/featured.png" />
     </item>
     
   </channel>

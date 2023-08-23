@@ -6,6 +6,7 @@
     <description>Recent content in Categories on Kyle Malloy, PE</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>© 2023 Kyle Malloy</copyright><atom:link href="https://kylemalloy.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2023 Kyle Malloy</copyright>
+    <atom:link href="https://kylemalloy.com/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

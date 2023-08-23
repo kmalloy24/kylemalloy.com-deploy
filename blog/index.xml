@@ -16,6 +16,7 @@
       <guid>https://kylemalloy.com/blog/fkit/</guid>
       <description>I recently completed the Sveltekit Full Course from Fireship.io where you build a Linktree clone using Sveltekit, Firebase, Tailwind, and Daisy UI.
 As someone new to web development in general, I ran into some problems along the way.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://kylemalloy.com/blog/fkit/featured.webp" />
     </item>
     
     <item>
@@ -26,6 +27,7 @@ As someone new to web development in general, I ran into some problems along the
       <guid>https://kylemalloy.com/blog/lisp-gpt/</guid>
       <description>Prompt # Write code for autocad lisp command for total length
 Code Output # (defun c:totallength (/ ss len) (setq ss (ssget)) (setq len 0.0) (if ss (progn (setq nents (sslength ss)) (repeat nents (setq ent (ssname ss (setq i (1- i)))) (setq len (+ len (vla-get-length (vlax-ename-&amp;gt;vla-object ent)))) ) (princ (strcat &amp;#34;\nTotal length: &amp;#34; (rtos len))) ) (princ &amp;#34;\nNo objects selected.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://kylemalloy.com/blog/lisp-gpt/featured.png" />
     </item>
     
   </channel>
