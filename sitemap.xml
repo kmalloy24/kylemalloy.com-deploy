@@ -88,6 +88,8 @@
     
   
     
+  
+    
       <url>
             <loc>https://kylemalloy.com/projects/linktree/</loc>
             <changefreq>always</changefreq>
@@ -105,6 +107,14 @@
           </url>
     
   
+    
+  
+    
+      <url>
+            <loc>https://kylemalloy.com/projects/specs/</loc>
+            <changefreq>always</changefreq>
+            <priority>0.5</priority>
+          </url>
     
   
     

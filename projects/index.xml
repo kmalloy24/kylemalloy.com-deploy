@@ -24,6 +24,19 @@ Features # 💪 Server-side rendering, SEO, data fetching, and caching
     </item>
     
     <item>
+      <title>Specs Living Document</title>
+      <link>https://kylemalloy.com/projects/specs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kylemalloy.com/projects/specs/</guid>
+      <description>Live Demo | Source Code
+About # A living document built with Astro, Starlight, and using the MassDOT Construction Specifications as an example.
+💯 Perfect PSI scores
+🌳 Extremely low emissions</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://kylemalloy.com/projects/specs/featured.png" />
+    </item>
+    
+    <item>
       <title>Tremont Street</title>
       <link>https://kylemalloy.com/projects/tremont/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

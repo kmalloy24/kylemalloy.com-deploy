@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>astro on Kyle Malloy, PE</title>
+    <link>https://kylemalloy.com/tags/astro/</link>
+    <description>Recent content in astro on Kyle Malloy, PE</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2023 Kyle Malloy</copyright>
+    <atom:link href="https://kylemalloy.com/tags/astro/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Specs Living Document</title>
+      <link>https://kylemalloy.com/projects/specs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kylemalloy.com/projects/specs/</guid>
+      <description>Live Demo | Source Code
+About # A living document built with Astro, Starlight, and using the MassDOT Construction Specifications as an example.
+💯 Perfect PSI scores
+🌳 Extremely low emissions</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://kylemalloy.com/projects/specs/featured.png" />
+    </item>
+    
+  </channel>
+</rss>

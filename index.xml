@@ -14,7 +14,7 @@
       <pubDate>Mon, 21 Aug 2023 00:00:00 +0000</pubDate>
       
       <guid>https://kylemalloy.com/resume/resume-dev/</guid>
-      <description>Projects # A few of my projects are featured below. A complete list is in progress here. Linktree Clone svelte firebase tailwind WebsitesLinkDesc.TechKyle MalloyPersonal WebsiteAtoms of UsBlogCourses # NameCredentialSvelteKit Full CourseAug 2023Course NotesTechnologies # I have experience working with the following web technologies.</description>
+      <description>Projects # A few of my projects are featured below. A complete list is in progress here. Linktree Clone svelte firebase tailwind Specs Living Document astro WebsitesLinkDesc.TechKyle MalloyPersonal WebsiteAtoms of UsBlogCourses # NameCredentialSvelteKit Full CourseAug 2023Course NotesTechnologies # I have experience working with the following web technologies.</description>
       
     </item>
     
@@ -63,6 +63,19 @@ Features # 💪 Server-side rendering, SEO, data fetching, and caching
 🤏 Drag-and-drop interface
 🎨 Svelte animations with real-world data</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://kylemalloy.com/projects/linktree/featured.png" />
+    </item>
+    
+    <item>
+      <title>Specs Living Document</title>
+      <link>https://kylemalloy.com/projects/specs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kylemalloy.com/projects/specs/</guid>
+      <description>Live Demo | Source Code
+About # A living document built with Astro, Starlight, and using the MassDOT Construction Specifications as an example.
+💯 Perfect PSI scores
+🌳 Extremely low emissions</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://kylemalloy.com/projects/specs/featured.png" />
     </item>
     
     <item>
