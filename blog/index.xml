@@ -1,13 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blog on Kyle Malloy, PE</title>
+    <title>✍️ Blog on Kyle Malloy, PE</title>
     <link>https://kylemalloy.com/blog/</link>
-    <description>Recent content in Blog on Kyle Malloy, PE</description>
+    <description>Recent content in ✍️ Blog on Kyle Malloy, PE</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2023 Kyle Malloy</copyright>
-    <lastBuildDate>Sun, 06 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://kylemalloy.com/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 27 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://kylemalloy.com/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Configure Vercel Speed Insights API with Sveltekit &amp; Typescript</title>
+      <link>https://kylemalloy.com/blog/vercel-speed-insights/</link>
+      <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://kylemalloy.com/blog/vercel-speed-insights/</guid>
+      <description>Intro # Vercel Speed Insights is a great tool that can track performance of your website or application overtime, providing checkpoints for production builds, so you can more easily troubleshoot performance drops between releases.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://kylemalloy.com/blog/vercel-speed-insights/featured.png" />
+    </item>
+    
     <item>
       <title>Fireship FKIT Course Notes</title>
       <link>https://kylemalloy.com/blog/fkit/</link>
@@ -16,7 +26,7 @@
       <guid>https://kylemalloy.com/blog/fkit/</guid>
       <description>I recently completed the Sveltekit Full Course from Fireship.io where you build a Linktree clone using Sveltekit, Firebase, Tailwind, and Daisy UI.
 As someone new to web development in general, I ran into some problems along the way.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://kylemalloy.com/blog/fkit/featured.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://kylemalloy.com/blog/fkit/featured.png" />
     </item>
     
     <item>

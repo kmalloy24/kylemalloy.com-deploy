@@ -16,7 +16,7 @@
       <guid>https://kylemalloy.com/blog/fkit/</guid>
       <description>I recently completed the Sveltekit Full Course from Fireship.io where you build a Linktree clone using Sveltekit, Firebase, Tailwind, and Daisy UI.
 As someone new to web development in general, I ran into some problems along the way.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://kylemalloy.com/blog/fkit/featured.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://kylemalloy.com/blog/fkit/featured.png" />
     </item>
     
     <item>
@@ -32,6 +32,19 @@ Features # 💪 Server-side rendering, SEO, data fetching, and caching
 🤏 Drag-and-drop interface
 🎨 Svelte animations with real-world data</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://kylemalloy.com/projects/linktree/featured.png" />
+    </item>
+    
+    <item>
+      <title>Specs Living Document</title>
+      <link>https://kylemalloy.com/projects/specs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kylemalloy.com/projects/specs/</guid>
+      <description>Live Demo | Source Code
+About # A living document built with Astro, Starlight, and using the MassDOT Construction Specifications as an example.
+💯 Perfect PSI scores
+🌳 Extremely low emissions</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://kylemalloy.com/projects/specs/featured.png" />
     </item>
     
   </channel>

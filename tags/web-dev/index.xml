@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>web-dev on Kyle Malloy, PE</title>
+    <link>https://kylemalloy.com/tags/web-dev/</link>
+    <description>Recent content in web-dev on Kyle Malloy, PE</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2023 Kyle Malloy</copyright>
+    <lastBuildDate>Fri, 27 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://kylemalloy.com/tags/web-dev/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Configure Vercel Speed Insights API with Sveltekit &amp; Typescript</title>
+      <link>https://kylemalloy.com/blog/vercel-speed-insights/</link>
+      <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://kylemalloy.com/blog/vercel-speed-insights/</guid>
+      <description>Intro # Vercel Speed Insights is a great tool that can track performance of your website or application overtime, providing checkpoints for production builds, so you can more easily troubleshoot performance drops between releases.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://kylemalloy.com/blog/vercel-speed-insights/featured.png" />
+    </item>
+    
+    <item>
+      <title>Fireship FKIT Course Notes</title>
+      <link>https://kylemalloy.com/blog/fkit/</link>
+      <pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://kylemalloy.com/blog/fkit/</guid>
+      <description>I recently completed the Sveltekit Full Course from Fireship.io where you build a Linktree clone using Sveltekit, Firebase, Tailwind, and Daisy UI.
+As someone new to web development in general, I ran into some problems along the way.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://kylemalloy.com/blog/fkit/featured.png" />
+    </item>
+    
+    <item>
+      <title>Linktree Clone</title>
+      <link>https://kylemalloy.com/projects/linktree/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kylemalloy.com/projects/linktree/</guid>
+      <description>Live Demo | Source Code
+Features # 💪 Server-side rendering, SEO, data fetching, and caching
+🍪 Cookie-based user authentication
+💥 Complex forms with SvelteKit Actions
+🤏 Drag-and-drop interface
+🎨 Svelte animations with real-world data</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://kylemalloy.com/projects/linktree/featured.png" />
+    </item>
+    
+    <item>
+      <title>Specs Living Document</title>
+      <link>https://kylemalloy.com/projects/specs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kylemalloy.com/projects/specs/</guid>
+      <description>Live Demo | Source Code
+About # A living document built with Astro, Starlight, and using the MassDOT Construction Specifications as an example.
+💯 Perfect PSI scores
+🌳 Extremely low emissions</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://kylemalloy.com/projects/specs/featured.png" />
+    </item>
+    
+  </channel>
+</rss>
