@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>vercel on Kyle Malloy, PE</title>
-    <link>https://kylemalloy.com/tags/vercel/</link>
-    <description>Recent content in vercel on Kyle Malloy, PE</description>
+    <title>web-analytics on Kyle Malloy, PE</title>
+    <link>https://kylemalloy.com/tags/web-analytics/</link>
+    <description>Recent content in web-analytics on Kyle Malloy, PE</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2023 Kyle Malloy</copyright>
-    <lastBuildDate>Thu, 02 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://kylemalloy.com/tags/vercel/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://kylemalloy.com/tags/web-analytics/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Free Privacy-Focused Analytics with Vercel</title>
       <link>https://kylemalloy.com/blog/vercel-analytics/</link>
@@ -16,16 +16,6 @@
       <guid>https://kylemalloy.com/blog/vercel-analytics/</guid>
       <description>A free Google Analytics alternative with better UI/UX and complete privacy for your users. Why use Vercel Analytics? # #1 Privacy # Data privacy has become a mainstream concern. Rather than giving up your user&amp;rsquo;s data to big tech when using a tool like Google Analytics, you can build trust with your users, and only store anonymized data.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://kylemalloy.com/blog/vercel-analytics/featured.png" />
-    </item>
-    
-    <item>
-      <title>Configure Vercel Speed Insights API with Sveltekit &amp; Typescript</title>
-      <link>https://kylemalloy.com/blog/vercel-speed-insights/</link>
-      <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://kylemalloy.com/blog/vercel-speed-insights/</guid>
-      <description>Intro # Vercel Speed Insights is a great tool that can track performance of your website or application overtime, providing checkpoints for production builds, so you can more easily troubleshoot performance drops between releases.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://kylemalloy.com/blog/vercel-speed-insights/featured.png" />
     </item>
     
   </channel>
